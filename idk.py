@@ -1,0 +1,1 @@
+print "What knowledge seeketh thou?"
