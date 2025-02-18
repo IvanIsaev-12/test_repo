@@ -1,4 +1,7 @@
 print("Hello World")
 for i in range(10):
-    print(i)
-
+    s = str(i)
+    for j in range(i - 1, 0, -1):
+        s += ' '
+        s += str(j)
+    print(s)
