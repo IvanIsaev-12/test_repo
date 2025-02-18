@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def Hello(n): print(f"Hello {n}")
 
 print("Hello World")
@@ -7,4 +8,7 @@ for i in range(10):
         s += ' '
         s += str(j)
     print(s)
+=======
+def Hello(n): print(fHello {n})
+>>>>>>> aki_branch
 
